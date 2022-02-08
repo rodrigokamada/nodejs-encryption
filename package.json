@@ -2,19 +2,24 @@
   "name": "nodejs-encryption",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "homepage": "https://github.com/rodrigokamada/nodejs-encryption#readme",
+  "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
+  "license": "MIT",
+  "keywords": [
+    "cipher",
+    "crypto",
+    "decipher",
+    "encryption"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rodrigokamada/nodejs-encryption.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/rodrigokamada/nodejs-encryption/issues"
   },
-  "homepage": "https://github.com/rodrigokamada/nodejs-encryption#readme"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
