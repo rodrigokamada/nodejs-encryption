@@ -1,7 +1,7 @@
 {
   "name": "nodejs-encryption",
   "version": "1.0.0",
-  "description": "",
+  "description": "There are two classes in the crypto module called Cipher and Decipher that we are going to use in the example.",
   "homepage": "https://github.com/rodrigokamada/nodejs-encryption#readme",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
