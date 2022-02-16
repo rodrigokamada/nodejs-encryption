@@ -1,4 +1,4 @@
-# Encryption application example using Node.js 
+# Encryption application example using Node.js
 
 There are two classes in the crypto module called [Cipher](https://nodejs.org/api/crypto.html#class-cipher) and [Decipher](https://nodejs.org/api/crypto.html#class-decipher) that we are going to use in the example.
 
